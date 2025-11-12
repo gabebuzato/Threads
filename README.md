@@ -1,46 +1,89 @@
-# Getting Started with Create React App
+# 🧵 Threads Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Recriação da interface do **Threads**, o aplicativo social da Meta, desenvolvido com **React**.  
+O objetivo é praticar conceitos de **frontend**, **componentização**, **estilização com Styled Components** e **responsividade**.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Tecnologias utilizadas
 
-### `npm start`
+- ⚛️ **React.js** — Biblioteca principal para a interface  
+- 💅 **Styled Components** — Estilização baseada em componentes  
+- 🧰 **Vite / Create React App** — Ambiente de desenvolvimento rápido  
+- 📁 **JavaScript **
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 📸 Preview
 
-### `npm test`
+> <img width="1844" height="911" alt="image" src="https://github.com/user-attachments/assets/c6f4471c-6258-45ad-a2a7-27113dc64f95" />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## 📂 Estrutura de pastas
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+├── 📁 public
+│   ├── 📄 favicon.ico
+│   ├── 📄 index.html
+│   ├── 📄 logo192.png
+│   ├── 📄 logo512.png
+│   ├── 📄 manifest.json
+│   └── 📄 robots.txt
+│
+├── 📁 src
+│   ├── 📁 assets
+│   │
+│   ├── 📁 pages
+│   │   └── 📁 profile
+│   │       ├── 📁 home
+│   │       ├── 📄 index.tsx
+│   │       └── 📄 styled.ts
+│   │
+│   ├── 📄 App.tsx
+│   ├── 📄 index.tsx
+│
+├── 📄 .gitignore
+├── 📄 custom.d.ts
+├── 📄 package-lock.json
+├── 📄 package.json
+├── 📄 README.md
+└── 📄 tsconfig.json
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Funcionalidades
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Exibição do perfil de usuário (foto, nome e bio)  
+- Ícones do Threads e Instagram  
+- Layout inspirado no **modo escuro** do Threads  
+- Responsividade e estilização moderna  
+- Post de exemplo (com texto fictício para desenvolvedores)
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+##  Design e estilo
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Tema escuro principal: `#101010`
+- Texto principal: `#FFFFFF`
+- Texto secundário: `#8E8E8E`
+- Fontes e espaçamentos inspirados no visual minimalista do Threads
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+##  Aprendizados
 
-## Learn More
+Durante o desenvolvimento foram praticados:
+- Estruturação de componentes React  
+- Uso de props em styled-components  
+- Importação e manipulação de imagens locais  
+- Organização de código e boas práticas de layout
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+ Autor
+
+Gabriel Buzato
+💼 Desenvolvedor Full Stack
+📍 Ciência da Computação - UTP
+
+
+ Licença
+
+Este projeto é apenas para fins de aprendizado e portfólio.
+Não possui vínculo oficial com a Meta Platforms, Inc.
