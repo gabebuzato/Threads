@@ -1,16 +1,16 @@
-# 🧵 Threads Clone
+#  Threads Clone
 
 Recriação da interface do **Threads**, o aplicativo social da Meta, desenvolvido com **React**.  
 O objetivo é praticar conceitos de **frontend**, **componentização**, **estilização com Styled Components** e **responsividade**.
 
 ---
 
-## 🚀 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
-- ⚛️ **React.js** — Biblioteca principal para a interface  
-- 💅 **Styled Components** — Estilização baseada em componentes  
-- 🧰 **Vite / Create React App** — Ambiente de desenvolvimento rápido  
-- 📁 **JavaScript **
+-  **React.js** — Biblioteca principal para a interface  
+-  **Styled Components** — Estilização baseada em componentes  
+-  **Vite / Create React App** — Ambiente de desenvolvimento rápido  
+-  **JavaScript **
 
 ---
 
